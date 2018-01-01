@@ -1,0 +1,10 @@
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/cm.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/cm-burn.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/cm-burn-bootloader.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/cm-size.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/cm-upload.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/nano328_CORE.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/nano328_SPI.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/nano328_Servo.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/nano328_SoftwareSerial.dir
+/home/cerlab/underwater_ws/build/arduino_motors/center_motor/CMakeFiles/upload.dir

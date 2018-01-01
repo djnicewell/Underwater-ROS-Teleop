@@ -1,0 +1,2 @@
+/usr/bin/avr-ar cr libnano328_SPI.a  CMakeFiles/nano328_SPI.dir/usr/share/arduino/libraries/SPI/SPI.cpp.obj
+/usr/bin/avr-ranlib libnano328_SPI.a

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/share/arduino/libraries/SoftwareSerial/SoftwareSerial.cpp
+avr/interrupt.h
+-
+avr/pgmspace.h
+-
+Arduino.h
+-
+SoftwareSerial.h
+-
+

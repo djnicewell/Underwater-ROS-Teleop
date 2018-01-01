@@ -1,0 +1,2 @@
+/usr/bin/avr-ar cr libnano328_Servo.a  CMakeFiles/nano328_Servo.dir/usr/share/arduino/libraries/Servo/Servo.cpp.obj
+/usr/bin/avr-ranlib libnano328_Servo.a

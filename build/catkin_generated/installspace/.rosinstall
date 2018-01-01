@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cerlab/underwater_ws/install/setup.sh

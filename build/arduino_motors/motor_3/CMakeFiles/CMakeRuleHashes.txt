@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+29f62c61edbf3aee5d589328f38e7238 CMakeFiles/m3-burn
+eaeb4981fe0cfd86a9f29a2af11bd287 CMakeFiles/m3-burn-bootloader
+c2d687e9eb9f89afe11f1bb540d1a9f8 CMakeFiles/m3-size
+2a194dae1f04f62118e22c458c457daa CMakeFiles/m3-upload
+c93dddeff1702b6223b06d9006415f6d CMakeFiles/upload
