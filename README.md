@@ -1,1 +1,2 @@
 # Underwater-ROS-Teleop
+This is an early version of the ROS framework of Underwater Ship Hull Cleaning Robot. The robot has a triangular shape and has three omni wheel propeller along with co-shaft flipper. In addition, there is a center motor in the middle in order to mount the robot on the ship hull. Thus, with a setup like this the robot has four arduino nanos that provide embedded contorl for the four motors. This ROS package uses ROSserial and a package called ros-keyboard(https://github.com/lrse/ros-keyboard) for reading the keyboard in order to control the robot.
